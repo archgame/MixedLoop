@@ -178,6 +178,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ethan_FoodArea
       objectReference: {fileID: 0}
+    - target: {fileID: 7114243597202592228, guid: 55092567bfd7593468e6bd135c2598bb, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f99e4985d1adfcb479b9a20c04481b3e, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 55092567bfd7593468e6bd135c2598bb, type: 3}
 --- !u!1001 &218411135
