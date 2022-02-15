@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6d6c6c9c50e945c419d339bf668d8157
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _palm_date_a_Color_Color: {fileID: 2800000, guid: 999126191f77cbe4d9deec43db278bf7, type: 3}
+  - _palm_date_a_Color_Normal: {fileID: 2800000, guid: c203b9e0c48ea074180e4d79073f6743, type: 3}
+  - _texcoord: {instanceID: 0}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 9c13d14418db1e14cb76ffc59a0b2b84
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _bush_a_d: {fileID: 2800000, guid: b33c85baaef5cbe40bdd0f5743ede851, type: 3}
+  - _bush_a_n: {fileID: 2800000, guid: f2c4b2d62080c534f92b8bcf102b6dde, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

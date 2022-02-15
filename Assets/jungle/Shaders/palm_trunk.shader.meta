@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: f9844d7f697058c49bd2bc09a200f9cb
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _palm_trunk_d: {fileID: 2800000, guid: 6ffdf7e959b7f944194e8de148551c87, type: 3}
+  - _palm_trunk_n: {fileID: 2800000, guid: 5a247ae2b1fb2ff498e926c70aaf4e83, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
